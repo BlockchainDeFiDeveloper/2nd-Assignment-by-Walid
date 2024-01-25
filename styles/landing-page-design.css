@@ -1,0 +1,1841 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.landing-page-design-wic {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.landing-page-design-wic .auto-group-udkz-ALU {
+  box-sizing: border-box;
+  padding: 5rem 12.7rem 10rem 13.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-bbhn-mDn {
+  margin-bottom: 4.8rem;
+  width: 100%;
+  height: 4.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-bbhn-mDn .group-40071-GgL {
+  margin-right: 40.4366rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-bbhn-mDn .group-40071-GgL .group-40070-1P2 {
+  margin-right: 1.6626rem;
+  width: 5.6008rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-bbhn-mDn .group-40071-GgL .hero-travel-8iY {
+  margin-bottom: 0rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #121218;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-bbhn-mDn .group-40071-GgL .hero-travel-8iY .hero-travel-8iY-sub-0 {
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-bbhn-mDn .group-40071-GgL .hero-travel-8iY .hero-travel-8iY-sub-1 {
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ff5400;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-bbhn-mDn .nav-text-2qr {
+  margin: 1.3rem 0rem 1.2rem 0rem;
+  height: calc(100% - 2.5rem);
+  display: flex;
+  column-gap: 4.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-bbhn-mDn .nav-text-2qr .home-J2g {
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.255;
+  color: #ff5400;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-bbhn-mDn .nav-text-2qr .packages-p12 {
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #424247;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-bbhn-mDn .nav-text-2qr .testimonial-ZDW {
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #424247;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-bbhn-mDn .nav-text-2qr .blog-HfJ {
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #424247;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-bbhn-mDn .nav-text-2qr .contact-qgp {
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #424247;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-13-nMA {
+  margin: 0rem 0.8rem 10rem 0rem;
+  box-sizing: border-box;
+  padding: 10.6rem 18.5rem;
+  width: 117rem;
+  height: 50rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-1-bg-Fde.png');
+  border-radius: 1.6rem;
+  background: linear-gradient(180deg, rgba(19, 19, 24, 0.8000000119) -0%, rgba(19, 19, 24, 0.8000000119) 100%);
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-13-nMA .group-12-H32 {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.8rem;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-13-nMA .group-12-H32 .group-3-SAp {
+  margin: 0rem 7.65rem 4.8rem 7.65rem;
+  width: calc(100% - 15.3rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-13-nMA .group-12-H32 .group-3-SAp .explore-your-travel-A6p {
+  margin-bottom: 2.3rem;
+  font-size: 6.4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-13-nMA .group-12-H32 .group-3-SAp .exploring-travel {
+  max-width: 64.7rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-13-nMA .group-12-H32 .frame-1-bE4 {
+  box-sizing: border-box;
+  padding: 1.6rem;
+  width: 100%;
+  height: 8.4rem;
+  display: flex;
+  column-gap: 2.4rem;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.3000000119);
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-13-nMA .group-12-H32 .frame-1-bE4 .group-4-v1S {
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 1.5rem 1.6rem;
+  width: 17.4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: rgba(19, 19, 24, 0.5);
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-13-nMA .group-12-H32 .frame-1-bE4 .group-5-whE {
+  box-sizing: border-box;
+  padding: 1.6rem 1.95rem 1.5rem 1.5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-13-nMA .group-12-H32 .frame-1-bE4 .group-5-whE .when-USG {
+  margin-right: 7.85rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: rgba(19, 19, 24, 0.5);
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-13-nMA .group-12-H32 .frame-1-bE4 .group-5-whE .frame-oUY {
+  margin-bottom: 0.1rem;
+  width: 1.5rem;
+  height: 0.75rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-13-nMA .group-12-H32 .frame-1-bE4 .group-5-Wdr {
+  box-sizing: border-box;
+  padding: 1.6rem 1.95rem 1.5rem 1.5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-13-nMA .group-12-H32 .frame-1-bE4 .group-5-Wdr .select-type-T3J {
+  margin-right: 3.95rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: rgba(19, 19, 24, 0.5);
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-13-nMA .group-12-H32 .frame-1-bE4 .group-5-Wdr .frame-atc {
+  margin-bottom: 0.1rem;
+  width: 1.5rem;
+  height: 0.75rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-13-nMA .group-12-H32 .frame-1-bE4 .group-8-hyE {
+  box-sizing: border-box;
+  padding: 1.4rem 3.4rem 1.4rem 3.5rem;
+  width: 17.4rem;
+  height: 100%;
+  background-color: #ff5400;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-13-nMA .group-12-H32 .frame-1-bE4 .group-8-hyE .group-7-2Ep {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.3rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-13-nMA .group-12-H32 .frame-1-bE4 .group-8-hyE .group-7-2Ep .frame-A68 {
+  margin: 0rem 1.1rem 0.1rem 0rem;
+  width: 1.8001rem;
+  height: 1.8001rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-13-nMA .group-12-H32 .frame-1-bE4 .group-8-hyE .group-7-2Ep .find-now-HRe {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-ktsz-3JL {
+  margin: 0rem 0.8rem 10rem 0rem;
+  width: calc(100% - 0.8rem);
+  height: 55rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-ktsz-3JL .auto-group-vkqq-xgC {
+  margin-right: 7.3rem;
+  width: 55.7rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-ktsz-3JL .auto-group-vkqq-xgC .group-15-i9a {
+  margin-bottom: 3.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-ktsz-3JL .auto-group-vkqq-xgC .group-15-i9a .our-popular-tours-3he {
+  margin-bottom: 2.3rem;
+  width: 100%;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-ktsz-3JL .auto-group-vkqq-xgC .group-15-i9a .popular-tours {
+  margin-bottom: 2.4rem;
+  max-width: 55.7rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: rgba(19, 19, 24, 0.6999999881);
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-ktsz-3JL .auto-group-vkqq-xgC .group-15-i9a .group-14-qtQ {
+  margin-bottom: 2.4rem;
+  row-gap: 1.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-ktsz-3JL .auto-group-vkqq-xgC .group-15-i9a .group-14-qtQ .popular-tours-dubai {
+  max-width: 52.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: rgba(19, 19, 24, 0.6999999881);
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-ktsz-3JL .auto-group-vkqq-xgC .group-15-i9a .group-14-qtQ .popular-tours-dhaka {
+  max-width: 48.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: rgba(19, 19, 24, 0.6999999881);
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-ktsz-3JL .auto-group-vkqq-xgC .group-15-i9a .group-14-qtQ .popular-tours-india {
+  max-width: 50.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: rgba(19, 19, 24, 0.6999999881);
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-ktsz-3JL .auto-group-vkqq-xgC .group-15-i9a .popular-tours-UAE {
+  max-width: 53rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-ktsz-3JL .auto-group-vkqq-xgC .group-8-7N4 {
+  width: 17.4rem;
+  height: 5.2rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff5400;
+  border-radius: 0.8rem;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-ktsz-3JL .rectangle-4-yfA {
+  width: 54rem;
+  height: 55rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-18-JhS {
+  margin: 0rem 28.65rem 4.8rem 27.75rem;
+  width: calc(100% - 56.4rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-18-JhS .choose-your-destination-2tL {
+  margin: 0rem 0.1rem 2.3rem 0rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-18-JhS .chosen-destination {
+  max-width: 61.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: rgba(19, 19, 24, 0.6999999881);
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-agcu-2mr {
+  margin: 0rem 0.8rem 2.4rem 0rem;
+  width: calc(100% - 0.8rem);
+  height: 30rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-agcu-2mr .auto-group-zt84-9ba {
+  margin-right: 2.4rem;
+  width: 57.3rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(19, 19, 24, 0.200000003);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-5-bg-FkY.png');
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-agcu-2mr .auto-group-p3fr-awn {
+  width: 57.3rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-8-AZ2.png');
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-jzjz-ruJ {
+  margin: 0rem 0.8rem 2.4rem 0rem;
+  height: 28.6rem;
+  display: flex;
+  column-gap: 2.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-jzjz-ruJ .auto-group-accu-nHA {
+  width: 37.4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(19, 19, 24, 0.200000003);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-6-bg-j5e.png');
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-jzjz-ruJ .auto-group-gz7i-FgY {
+  width: 47.4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(19, 19, 24, 0.200000003);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-7-bg.png');
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-jzjz-ruJ .auto-group-nuxg-vXn {
+  width: 27.4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(19, 19, 24, 0.200000003);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-9-bg-w8Q.png');
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-zdnu-c9i {
+  margin: 0rem 0.8rem 10rem 0rem;
+  width: calc(100% - 0.8rem);
+  height: 30rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-zdnu-c9i .auto-group-ssxi-J2Y {
+  margin-right: 2.4rem;
+  width: 47.3rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(19, 19, 24, 0.200000003);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-11-bg-17i.png');
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-zdnu-c9i .auto-group-ts52-Xvt {
+  width: 67.3rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(19, 19, 24, 0.200000003);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-10-bg-3vU.png');
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-18-Cn8 {
+  margin: 0rem 28.65rem 4.8rem 27.75rem;
+  width: calc(100% - 56.4rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-18-Cn8 .why-choose-us-jGG {
+  margin-bottom: 2.3rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-18-Cn8 .reason-choosing-us {
+  max-width: 61.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: rgba(19, 19, 24, 0.6999999881);
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-umnc-vLk {
+  margin: 0rem 0.8rem 2.4rem 0rem;
+  width: calc(100% - 0.8rem);
+  height: 28.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-umnc-vLk .group-23-SZz {
+  margin-right: 2.4rem;
+  box-sizing: border-box;
+  padding: 3.2rem 5.5rem 3.2rem 3.2rem;
+  width: 57.3rem;
+  height: 100%;
+  border: solid 0.1rem rgba(251, 181, 99, 0.200000003);
+  background-color: rgba(251, 181, 99, 0.0500000007);
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-umnc-vLk .group-23-SZz .group-22-Zec {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-umnc-vLk .group-23-SZz .group-22-Zec .hotel-1-Ktg {
+  margin-bottom: 3.2rem;
+  width: 6.4rem;
+  height: 6.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-umnc-vLk .group-23-SZz .group-22-Zec .group-21-4bN {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-umnc-vLk .group-23-SZz .group-22-Zec .group-21-4bN .handpicked-hotels-EEx {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-umnc-vLk .group-23-SZz .group-22-Zec .group-21-4bN .hotels-picked {
+  max-width: 48.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-umnc-vLk .group-24-MTz {
+  box-sizing: border-box;
+  padding: 3.2rem 5.5rem 3.2rem 3.2rem;
+  width: 57.3rem;
+  height: 100%;
+  border: solid 0.1rem rgba(41, 206, 246, 0.200000003);
+  background-color: rgba(41, 206, 246, 0.0500000007);
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-umnc-vLk .group-24-MTz .group-22-5un {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-umnc-vLk .group-24-MTz .group-22-5un .group-27-qtx {
+  margin-bottom: 3.2rem;
+  width: 6.4rem;
+  height: 6.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-umnc-vLk .group-24-MTz .group-22-5un .group-21-Pfa {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-umnc-vLk .group-24-MTz .group-22-5un .group-21-Pfa .world-class-service-YYU {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-umnc-vLk .group-24-MTz .group-22-5un .group-21-Pfa .great-service {
+  max-width: 48.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-25-Jg4 {
+  margin: 0rem 30.7rem 10rem 29.8rem;
+  box-sizing: border-box;
+  padding: 3.2rem 5.5rem 3.2rem 3.2rem;
+  width: calc(100% - 60.5rem);
+  height: 28.4rem;
+  border: solid 0.1rem rgba(233, 68, 68, 0.200000003);
+  background-color: rgba(233, 68, 68, 0.0500000007);
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-25-Jg4 .group-22-cAx {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-25-Jg4 .group-22-cAx .group-26-mZe {
+  margin-bottom: 3.2rem;
+  width: 6.4rem;
+  height: 6.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-25-Jg4 .group-22-cAx .group-21-iDz {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-25-Jg4 .group-22-cAx .group-21-iDz .best-price-guarantee-H2C {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-25-Jg4 .group-22-cAx .group-21-iDz .best-pricing {
+  max-width: 48.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-18-dkG {
+  margin: 0rem 28.65rem 4.8rem 27.75rem;
+  width: calc(100% - 56.4rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-18-dkG .deals-discounts-mLg {
+  margin-bottom: 2.3rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-18-dkG .discounts-offers {
+  max-width: 61.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: rgba(19, 19, 24, 0.6999999881);
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-39-mzt {
+  margin: 0rem 0.8rem 2.4rem 0rem;
+  box-sizing: border-box;
+  padding: 5.6rem 5.6rem 5.5rem 53.5rem;
+  width: 117rem;
+  height: 50rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-12-bg-xnQ.png');
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-39-mzt .group-38-HiL {
+  box-sizing: border-box;
+  padding: 5rem 7.7rem 5rem 5rem;
+  width: 100%;
+  height: 100%;
+  border: solid 0.2rem #ffffff;
+  backdrop-filter: blur(0.25rem);
+  background-color: rgba(255, 255, 255, 0.8000000119);
+  border-radius: 1.6rem;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-39-mzt .group-38-HiL .group-37-2fv {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-39-mzt .group-38-HiL .group-37-2fv .group-35-Boi {
+  margin-bottom: 2.4rem;
+  height: 2.4rem;
+  display: flex;
+  column-gap: 2.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-39-mzt .group-38-HiL .group-37-2fv .group-35-Boi .group-32-Kf2 {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.225rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-39-mzt .group-38-HiL .group-37-2fv .group-35-Boi .group-32-Kf2 .frame-F2t {
+  margin: 0rem 1.025rem 0.1rem 0rem;
+  width: 1.95rem;
+  height: 1.95rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-39-mzt .group-38-HiL .group-37-2fv .group-35-Boi .group-32-Kf2 .day-6-night-NNQ {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-39-mzt .group-38-HiL .group-37-2fv .group-35-Boi .group-33-Vxp {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.15rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-39-mzt .group-38-HiL .group-37-2fv .group-35-Boi .group-33-Vxp .frame-3UY {
+  margin: 0rem 0.95rem 0.025rem 0rem;
+  width: 2.1rem;
+  height: 1.875rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-39-mzt .group-38-HiL .group-37-2fv .group-35-Boi .group-33-Vxp .max-10-y7J {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-39-mzt .group-38-HiL .group-37-2fv .group-35-Boi .group-34-WN8 {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.375rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-39-mzt .group-38-HiL .group-37-2fv .group-35-Boi .group-34-WN8 .frame-3cx {
+  margin: 0rem 1.175rem 0.025rem 0rem;
+  width: 1.65rem;
+  height: 2.0248rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-39-mzt .group-38-HiL .group-37-2fv .group-35-Boi .group-34-WN8 .malaysia-a76 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-39-mzt .group-38-HiL .group-37-2fv .group-36-hhW {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-39-mzt .group-38-HiL .group-37-2fv .group-36-hhW .tour-to-satorini-rKW {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-39-mzt .group-38-HiL .group-37-2fv .group-36-hhW .tour-tipstoday {
+  margin-bottom: 1.6rem;
+  max-width: 45.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-39-mzt .group-38-HiL .group-37-2fv .group-36-hhW .price-1300-1500-F6k {
+  margin-bottom: 2.3rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ff5400;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-39-mzt .group-38-HiL .group-37-2fv .group-36-hhW .group-8-y2k {
+  width: 15rem;
+  height: 5.2rem;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-39-mzt .group-38-HiL .group-37-2fv .group-36-hhW .group-8-y2k .group-7-KcQ {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.8rem;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-39-mzt .group-38-HiL .group-37-2fv .group-36-hhW .group-8-y2k .group-7-KcQ .group-31-gxk {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff5400;
+  border-radius: 0.8rem;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-40-Udi {
+  margin: 0rem 0.8rem 2.4rem 0rem;
+  box-sizing: border-box;
+  padding: 5.6rem 5.6rem 5.5rem 5.6rem;
+  width: 117rem;
+  height: 50rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-12-bg-eiQ.png');
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-40-Udi .group-38-awe {
+  margin-right: 47.9rem;
+  box-sizing: border-box;
+  padding: 5rem 7.7rem 5rem 5rem;
+  width: 57.9rem;
+  height: 100%;
+  border: solid 0.2rem #ffffff;
+  backdrop-filter: blur(0.25rem);
+  background-color: rgba(255, 255, 255, 0.8000000119);
+  border-radius: 1.6rem;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-40-Udi .group-38-awe .group-37-hmN {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-40-Udi .group-38-awe .group-37-hmN .group-35-4rp {
+  margin-bottom: 2.4rem;
+  height: 2.4rem;
+  display: flex;
+  column-gap: 2.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-40-Udi .group-38-awe .group-37-hmN .group-35-4rp .group-32-c7e {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.225rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-40-Udi .group-38-awe .group-37-hmN .group-35-4rp .group-32-c7e .frame-vPE {
+  margin: 0rem 1.025rem 0.1rem 0rem;
+  width: 1.95rem;
+  height: 1.95rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-40-Udi .group-38-awe .group-37-hmN .group-35-4rp .group-32-c7e .day-6-night-FAc {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-40-Udi .group-38-awe .group-37-hmN .group-35-4rp .group-33-BKA {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.15rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-40-Udi .group-38-awe .group-37-hmN .group-35-4rp .group-33-BKA .frame-uFA {
+  margin: 0rem 0.95rem 0.025rem 0rem;
+  width: 2.1rem;
+  height: 1.875rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-40-Udi .group-38-awe .group-37-hmN .group-35-4rp .group-33-BKA .max-10-dS4 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-40-Udi .group-38-awe .group-37-hmN .group-35-4rp .group-34-xz8 {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.375rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-40-Udi .group-38-awe .group-37-hmN .group-35-4rp .group-34-xz8 .frame-76L {
+  margin: 0rem 1.175rem 0.025rem 0rem;
+  width: 1.65rem;
+  height: 2.0248rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-40-Udi .group-38-awe .group-37-hmN .group-35-4rp .group-34-xz8 .malaysia-Ewe {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-40-Udi .group-38-awe .group-37-hmN .group-36-mwa {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-40-Udi .group-38-awe .group-37-hmN .group-36-mwa .tour-to-satorini-j7i {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-40-Udi .group-38-awe .group-37-hmN .group-36-mwa .tour-tipsyesterday {
+  margin-bottom: 1.6rem;
+  max-width: 45.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-40-Udi .group-38-awe .group-37-hmN .group-36-mwa .price-1300-1500-vT6 {
+  margin-bottom: 2.3rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ff5400;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-40-Udi .group-38-awe .group-37-hmN .group-36-mwa .group-8-rbe {
+  width: 15rem;
+  height: 5.2rem;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-40-Udi .group-38-awe .group-37-hmN .group-36-mwa .group-8-rbe .group-7-pHa {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.8rem;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-40-Udi .group-38-awe .group-37-hmN .group-36-mwa .group-8-rbe .group-7-pHa .group-31-nVJ {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff5400;
+  border-radius: 0.8rem;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-41-AVr {
+  margin: 0rem 0.8rem 4.8rem 0rem;
+  box-sizing: border-box;
+  padding: 5.6rem 5.6rem 5.5rem 53.5rem;
+  width: 117rem;
+  height: 50rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-12-bg-vZA.png');
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-41-AVr .group-38-572 {
+  box-sizing: border-box;
+  padding: 5rem 7.7rem 5rem 5rem;
+  width: 100%;
+  height: 100%;
+  border: solid 0.2rem #ffffff;
+  backdrop-filter: blur(0.25rem);
+  background-color: rgba(255, 255, 255, 0.8000000119);
+  border-radius: 1.6rem;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-41-AVr .group-38-572 .group-37-ooi {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-41-AVr .group-38-572 .group-37-ooi .group-35-Znt {
+  margin-bottom: 2.4rem;
+  height: 2.4rem;
+  display: flex;
+  column-gap: 2.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-41-AVr .group-38-572 .group-37-ooi .group-35-Znt .group-32-hPJ {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.225rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-41-AVr .group-38-572 .group-37-ooi .group-35-Znt .group-32-hPJ .frame-E8L {
+  margin: 0rem 1.025rem 0.1rem 0rem;
+  width: 1.95rem;
+  height: 1.95rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-41-AVr .group-38-572 .group-37-ooi .group-35-Znt .group-32-hPJ .day-6-night-ksN {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-41-AVr .group-38-572 .group-37-ooi .group-35-Znt .group-33-tya {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.15rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-41-AVr .group-38-572 .group-37-ooi .group-35-Znt .group-33-tya .frame-qdv {
+  margin: 0rem 0.95rem 0.025rem 0rem;
+  width: 2.1rem;
+  height: 1.875rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-41-AVr .group-38-572 .group-37-ooi .group-35-Znt .group-33-tya .max-10-NNx {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-41-AVr .group-38-572 .group-37-ooi .group-35-Znt .group-34-7bS {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.375rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-41-AVr .group-38-572 .group-37-ooi .group-35-Znt .group-34-7bS .frame-4Fn {
+  margin: 0rem 1.175rem 0.025rem 0rem;
+  width: 1.65rem;
+  height: 2.0248rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-41-AVr .group-38-572 .group-37-ooi .group-35-Znt .group-34-7bS .malaysia-mvt {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-41-AVr .group-38-572 .group-37-ooi .group-36-vHz {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-41-AVr .group-38-572 .group-37-ooi .group-36-vHz .tour-to-satorini-UaQ {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-41-AVr .group-38-572 .group-37-ooi .group-36-vHz .tour-tipsfuture {
+  margin-bottom: 1.6rem;
+  max-width: 45.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-41-AVr .group-38-572 .group-37-ooi .group-36-vHz .price-1300-1500-5q6 {
+  margin-bottom: 2.3rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ff5400;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-41-AVr .group-38-572 .group-37-ooi .group-36-vHz .group-8-2EY {
+  width: 15rem;
+  height: 5.2rem;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-41-AVr .group-38-572 .group-37-ooi .group-36-vHz .group-8-2EY .group-7-yvU {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.8rem;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-41-AVr .group-38-572 .group-37-ooi .group-36-vHz .group-8-2EY .group-7-yvU .group-31-Yya {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff5400;
+  border-radius: 0.8rem;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-8-9yN {
+  margin: 0rem 48.8rem 10rem 48rem;
+  width: calc(100% - 96.8rem);
+  height: 5.2rem;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-8-9yN .group-7-VXS {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.8rem;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .group-8-9yN .group-7-VXS .group-42-TjA {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff5400;
+  border-radius: 0.8rem;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-b8ma-9M6 {
+  margin: 0rem 0.8rem 10rem 0rem;
+  width: calc(100% - 0.8rem);
+  height: 42.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-b8ma-9M6 .group-43-fqE {
+  margin: 0rem 2.8rem 0rem 0rem;
+  width: 53.2rem;
+  height: calc(100% - 0rem);
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-b8ma-9M6 .group-43-fqE .a-simple-perfect-place-to-get-lost-Boa {
+  margin-bottom: 2.4rem;
+  max-width: 44.1rem;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.5;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-b8ma-9M6 .group-43-fqE .get-losttoday {
+  margin-bottom: 2.4rem;
+  max-width: 52.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-b8ma-9M6 .group-43-fqE .get-lostyesterday {
+  margin-bottom: 1.6rem;
+  max-width: 50.4rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.625;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-b8ma-9M6 .group-43-fqE .get-lostfuture {
+  margin-bottom: 3.2rem;
+  max-width: 50.4rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.625;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-b8ma-9M6 .group-43-fqE .group-42-y7A {
+  width: 17.4rem;
+  height: 5.2rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff5400;
+  border-radius: 0.8rem;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-b8ma-9M6 .group-40089-T2L {
+  margin-right: 0rem;
+  width: 61rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-b8ma-9M6 .group-40089-T2L .rectangle-10-zHA {
+  width: 61rem;
+  height: 42.4rem;
+  position: absolute;
+  left: 0;
+  top: 0rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.6rem;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-b8ma-9M6 .group-40089-T2L .rectangle-11-KKS {
+  width: 61rem;
+  height: 42.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: linear-gradient(180deg, #131318 -31.96%, rgba(19, 19, 24, 0) 100%);
+  border-radius: 1.6rem;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-b8ma-9M6 .group-40089-T2L .group-39464-cZS {
+  width: 56.2rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 39.5rem;
+  border-radius: 0.8rem;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-b8ma-9M6 .group-40089-T2L .group-39464-cZS .group-8-M1E {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.8rem;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-b8ma-9M6 .group-40089-T2L .group-39464-cZS .group-8-M1E .group-40061-7WC {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.3000000119);
+  border-radius: 0.8rem;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-b8ma-9M6 .group-40089-T2L .group-39464-cZS .group-8-M1E .group-40061-7WC .group-7-ULk {
+  margin-right: 47.5rem;
+  width: 8.7rem;
+  height: 100%;
+  border-radius: 0.8rem;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-b8ma-9M6 .group-40089-T2L .group-39464-cZS .group-8-M1E .group-40061-7WC .group-7-ULk .rectangle-5-qBJ {
+  width: 100%;
+  height: 0.4rem;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-b8ma-9M6 .group-40089-T2L .group-40062-2ma {
+  width: 6.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 35.5rem;
+  display: flex;
+  align-items: center;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-b8ma-9M6 .group-40089-T2L .group-40062-2ma .group-39472-a2Q {
+  margin-right: 1.2rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-b8ma-9M6 .group-40089-T2L .group-40062-2ma .item-000-Jyz {
+  margin-top: 0.1rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #f3f3f3;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-b8ma-9M6 .group-40089-T2L .group-40063-dFa {
+  box-sizing: border-box;
+  padding-right: 1.125rem;
+  width: 10.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 48.2rem;
+  top: 35.5rem;
+  display: flex;
+  align-items: center;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-b8ma-9M6 .group-40089-T2L .group-40063-dFa .group-39481-YNY {
+  margin-right: 2.725rem;
+  width: 6.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-b8ma-9M6 .group-40089-T2L .group-40063-dFa .frame-TVW {
+  width: 0.15rem;
+  height: 1.35rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-b8ma-9M6 .group-40089-T2L .watch-our-mountain-in-bangladesh-oZN {
+  width: 27.5rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 16.75rem;
+  top: 17.6rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-1bye-s3S {
+  margin: 0rem 0.752rem 0rem 0rem;
+  width: calc(100% - 0.7517rem);
+  height: 42.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-1bye-s3S .group-40093-zNx {
+  margin-right: 2.4rem;
+  box-sizing: border-box;
+  padding: 4rem 4.1rem 4rem 4rem;
+  width: 47.4rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #ff5400;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-1bye-s3S .group-40093-zNx .group-40066-hHN {
+  margin: 0rem 5.6rem 2.4rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-1bye-s3S .group-40093-zNx .group-40066-hHN .newsletter-SVr {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-1bye-s3S .group-40093-zNx .group-40066-hHN .get-your-dailytips {
+  max-width: 33.7rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-1bye-s3S .group-40093-zNx .line-1-HFa {
+  margin-bottom: 2.3rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: rgba(19, 19, 24, 0.1000000015);
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-1bye-s3S .group-40093-zNx .group-10-EAp {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  height: 5.2rem;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-1bye-s3S .group-40093-zNx .group-10-EAp .group-5-Brk {
+  box-sizing: border-box;
+  padding: 1.6rem 2rem 1.5rem 2rem;
+  width: 100%;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: rgba(19, 19, 24, 0.3000000119);
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: rgba(19, 19, 24, 0.0500000007);
+  border-radius: 0.8rem;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-1bye-s3S .group-40093-zNx .group-40067-TZN {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  height: 5.2rem;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-1bye-s3S .group-40093-zNx .group-40067-TZN .group-5-1at {
+  box-sizing: border-box;
+  padding: 1.6rem 2rem 1.5rem 2rem;
+  width: 100%;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: rgba(19, 19, 24, 0.3000000119);
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: rgba(19, 19, 24, 0.0500000007);
+  border-radius: 0.8rem;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-1bye-s3S .group-40093-zNx .group-42-66Y {
+  width: 100%;
+  height: 5.2rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff5400;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-1bye-s3S .auto-group-wh16-LFn {
+  width: 67.2483rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-1bye-s3S .auto-group-wh16-LFn .rectangle-8-t2Q {
+  width: 67.2rem;
+  height: 42.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.6rem;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-1bye-s3S .auto-group-wh16-LFn .group-40069-o9N {
+  box-sizing: border-box;
+  padding: 5.626rem 4.466rem 5.626rem 5.682rem;
+  width: 34.5483rem;
+  height: 22.1864rem;
+  position: absolute;
+  left: 32.7rem;
+  top: 20rem;
+  background-color: #ff5400;
+  border-radius: 1.6rem;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-1bye-s3S .auto-group-wh16-LFn .group-40069-o9N .group-40068-Jbv {
+  width: 100%;
+  height: 5.1862rem;
+  position: relative;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-1bye-s3S .auto-group-wh16-LFn .group-40069-o9N .group-40068-Jbv .travelcom-45J {
+  width: 11.9rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 4.8557rem;
+  top: 0;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-design-wic .auto-group-udkz-ALU .auto-group-1bye-s3S .auto-group-wh16-LFn .group-40069-o9N .group-40068-Jbv .save-up-to-70-A8L {
+  width: 24.4rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 0;
+  top: 1.0862rem;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-design-wic .auto-group-mdug-CKv {
+  box-sizing: border-box;
+  padding: 11rem 6rem 10.9rem 6rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(19, 19, 24, 0.0500000007);
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-mdug-CKv .group-40072-7St {
+  margin: 0rem 54.733rem 1.4rem 54rem;
+  width: calc(100% - 108.7327rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-mdug-CKv .group-40072-7St .group-40070-3LY {
+  margin-right: 1.6rem;
+  width: 4.6673rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-mdug-CKv .group-40072-7St .hero-travel-yV6 {
+  margin-top: 0rem;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.2549999952;
+  color: #121218;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-mdug-CKv .group-40072-7St .hero-travel-yV6 .hero-travel-yV6-sub-0 {
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #121218;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.landing-page-design-wic .auto-group-mdug-CKv .group-40072-7St .hero-travel-yV6 .hero-travel-yV6-sub-1 {
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ff5400;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.landing-page-design-wic .auto-group-mdug-CKv .just-for-you {
+  margin: 0rem 0.1rem 3.2rem 0rem;
+  max-width: 75rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-mdug-CKv .auto-group-9vmn-S9i {
+  margin-bottom: 5rem;
+  width: 132rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-mdug-CKv .line-2-NZA {
+  margin: 0rem 22.4rem 4.9rem 22.4rem;
+  width: calc(100% - 44.8rem);
+  height: 0.1rem;
+  background-color: rgba(19, 19, 24, 0.1000000015);
+  flex-shrink: 0;
+}
+.landing-page-design-wic .auto-group-mdug-CKv .all-rights-reserved-V7z {
+  margin-right: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #131318;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
